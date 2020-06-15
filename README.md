@@ -6,7 +6,7 @@ The REST APIs And Many Other Fake APIs Can Be Found [here](https://jsonplacehold
 ## Images
 ![First](images/Capture.JPG)
 
-![Second](images/Capture 1.JPG)
+![Second](images/Capture1.JPG)
 
 ## Getting Started
 
