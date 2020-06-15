@@ -1,6 +1,12 @@
-# flutterfuturebuilderapp
+# FlutterFutureBuilderapp
 
-A new Flutter application.
+A new Flutter application. Used Fake Online REST APIs.
+The REST APIs And Many Other Fake APIs Can Be Found [here](https://jsonplaceholder.typicode.com/)
+
+## Images
+![First](images\Capture.png)
+
+![Second](images\Capture 1.png)
 
 ## Getting Started
 
