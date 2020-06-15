@@ -4,9 +4,9 @@ A new Flutter application. Used Fake Online REST APIs.
 The REST APIs And Many Other Fake APIs Can Be Found [here](https://jsonplaceholder.typicode.com/)
 
 ## Images
-![First](images\Capture.JPG)
+![First](images/Capture.JPG)
 
-![Second](images\Capture 1.JPG)
+![Second](images/Capture 1.JPG)
 
 ## Getting Started
 
